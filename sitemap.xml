@@ -39,6 +39,20 @@
     </url>
 
     <url>
+        <loc>https://premierpowerwashingwi.com/service-Home-Softwash</loc>
+        <lastmod>2022-04-04</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://premierpowerwashingwi.com/service-Snow-Plowing</loc>
+        <lastmod>2022-04-04</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
         <loc>https://premierpowerwashingwi.com/service-Deck-&-Patio-Cleaning</loc>
         <lastmod>2022-04-04</lastmod>
         <changefreq>weekly</changefreq>
@@ -60,7 +74,7 @@
     </url>
 
     <url>
-        <loc>https://premierpowerwashingwi.com/service-Snow-Plowing</loc>
+        <loc>https://premierpowerwashingwi.com/service-Gutter-Cleaning</loc>
         <lastmod>2022-04-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -75,20 +89,6 @@
 
     <url>
         <loc>https://premierpowerwashingwi.com/service-Other-Services</loc>
-        <lastmod>2022-04-04</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-
-    <url>
-        <loc>https://premierpowerwashingwi.com/service-Gutter-Cleaning</loc>
-        <lastmod>2022-04-04</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-
-    <url>
-        <loc>https://premierpowerwashingwi.com/service-Home-Softwash</loc>
         <lastmod>2022-04-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
